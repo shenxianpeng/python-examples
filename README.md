@@ -1,2 +1,2 @@
-# code-set
+# Python code demo
 
